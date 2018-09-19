@@ -1,0 +1,16 @@
+/* Body */
+body{
+  background-image: url('../images/bright-squares.png')
+}
+
+/* Header */
+header, footer {
+  text-align: center;
+  background-color: #3b5998;
+  font-size: 25px;
+  color: ghostwhite;
+  padding: 20px;
+}
+
+
+
