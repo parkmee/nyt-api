@@ -7,9 +7,13 @@ body{
 header, footer {
   text-align: center;
   background-color: #3b5998;
-  font-size: 25px;
+  font-size: 36px;
   color: ghostwhite;
-  padding: 20px;
+  padding: 15px;
+}
+
+header {
+  font-family: 'Marcellus SC', serif;
 }
 
 
