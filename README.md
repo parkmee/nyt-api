@@ -2,6 +2,6 @@
 
 Team:
 George Rincon
-Devon Biles
+Darron Biles
 Mike Gross
 Meeyoung Park
